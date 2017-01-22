@@ -1,0 +1,12 @@
+What is git:
+
+    See: https://en.wikipedia.org/wiki/Git
+
+I'm staring with this link for a git gui:
+
+    https://www.slant.co/topics/2089/~git-clients-for-windows
+
+    And will start by trying out:
+    
+    1.  The #2 recommendation (since the #1 recommendation costs money)
+    2.  https://www.gitkraken.com/ 

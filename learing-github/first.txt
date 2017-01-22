@@ -1,0 +1,21 @@
+Created a repository.
+    Created a branch 'first'
+
+Added SSH keys
+
+Used (On Linux)
+    git clone git@github.com:AmitGreen/gem.git
+    cd gem
+    git checkout first
+
+    mkdir learning-github
+    git add learning-github
+    cd learning-github
+    vi first.txt
+    git add first.txt
+    cd ..
+    git commmit
+    git push
+
+Next steps:
+    Learn how to do this on Windows.
